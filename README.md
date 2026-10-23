@@ -53,3 +53,10 @@ Use for supplied Excel/CSV coursework requiring one-way ANOVA with corrected pos
 This is an instruction-only workflow, not a fixed-data calculator or bundled plotting library. It does not cover time-trend regression or supervised classification. Execute only requested stages; inspecting data does not imply permission to generate every analysis. Python implementations typically need pandas, openpyxl, NumPy, SciPy, statsmodels, scikit-learn and Matplotlib in an isolated environment. Use an available scientific-figure skill for its own rendering and QA requirements.
 
 Copy `skills/statistical-modeling-report` into your personal skills directory without overwriting existing edits. Example: “Use $statistical-modeling-report to analyze these Excel sheets and consolidate the computed results and figures into a Markdown report.” Portable reports need their image assets as well as the Markdown file; link verification alone is not visual rendering verification.
+
+
+## himcm-latex-profile
+
+[English documentation](skills/himcm-latex-profile/README.md) · [中文说明](skills/himcm-latex-profile/README.zh-CN.md)
+
+Adapt English MCM/ICM LaTeX projects to HiMCM rules with solution-page checks and separate AI-report handling. Instruction-only; no third-party templates or scripts redistributed. Actual-paper compilation and visual verification remain required.

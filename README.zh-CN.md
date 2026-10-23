@@ -53,3 +53,10 @@ python skills/skill-summary-zh/scripts/localize.py restore --backup /path/to/bac
 这是指令型工作流，不是固定数据计算器，也不自带绘图库；不覆盖时间趋势回归或监督分类。只执行请求的阶段，“学习数据”不等于运行全部模型。Python实现通常需要在隔离环境提供pandas、openpyxl、NumPy、SciPy、statsmodels、scikit-learn和Matplotlib；使用可用科研绘图技能时，遵循其独立的绘制与质检要求。
 
 将`skills/statistical-modeling-report`复制到个人技能目录，保留已有同名修改。示例：“使用 $statistical-modeling-report 分析这些Excel工作表，把计算结果与图片整理到Markdown报告。”可携带报告需同时包含图片资源；链接存在不等于渲染已通过目视检查。
+
+
+## himcm-latex-profile
+
+[中文说明](skills/himcm-latex-profile/README.zh-CN.md) · [English documentation](skills/himcm-latex-profile/README.md)
+
+基于已有MCM/ICM英文项目适配HiMCM，显式检查25页解答上限和另附AI报告。仅含指令，不转载第三方模板或脚本，实际论文仍需编译和逐页检查。
