@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Summary ZH"
+  short_description: "将技能列表中的英文说明翻译为简洁且便于区分的一行中文"
+  default_prompt: "Use $skill-summary-zh to localize the affected skill summaries into concise Chinese, preserving their names and behavior."
