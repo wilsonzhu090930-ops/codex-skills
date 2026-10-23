@@ -39,3 +39,9 @@ python skills/skill-summary-zh/scripts/localize.py restore --backup /path/to/bac
 ```
 
 This repository contains no personal account information, machine paths, skill inventories, credentials or source code from other projects. Contributions through issues and pull requests are welcome, especially improvements to summary quality and compatibility.
+
+## workflow-to-skill
+
+Distill proven workflows into reusable Codex skills, validate their behavior, and publish to the user's designated repository under an explicit request or standing authorization. Includes concise Chinese UI explanations and matching English/Chinese documentation. Preserve private data, existing local edits and concurrent remote changes.
+
+Invoke `$workflow-to-skill` after a successful reusable workflow, or establish a local standing instruction for future agent work. This is not a background watcher or publisher.

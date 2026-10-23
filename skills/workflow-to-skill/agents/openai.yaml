@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workflow to Skill"
+  short_description: "将实用工作流蒸馏为技能并验证发布"
+  default_prompt: "Use $workflow-to-skill to distill this proven workflow into a reusable skill, validate it, and publish it to my designated repository."
