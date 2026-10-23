@@ -45,3 +45,11 @@ This repository contains no personal account information, machine paths, skill i
 Distill proven workflows into reusable Codex skills, validate their behavior, and publish to the user's designated repository under an explicit request or standing authorization. Includes concise Chinese UI explanations and matching English/Chinese documentation. Preserve private data, existing local edits and concurrent remote changes.
 
 Invoke `$workflow-to-skill` after a successful reusable workflow, or establish a local standing instruction for future agent work. This is not a background watcher or publisher.
+
+## statistical-modeling-report
+
+Use for supplied Excel/CSV coursework requiring one-way ANOVA with corrected post-hoc comparisons, chi-square independence tests, or K-means and PCA. Produces the requested statistical decisions, Chinese or user-language figures, and a Markdown report with verified asset links. It preserves source data and handles conflicting K-selection metrics, teacher-label exclusion, uncertainty and non-causal interpretation.
+
+This is an instruction-only workflow, not a fixed-data calculator or bundled plotting library. It does not cover time-trend regression or supervised classification. Execute only requested stages; inspecting data does not imply permission to generate every analysis. Python implementations typically need pandas, openpyxl, NumPy, SciPy, statsmodels, scikit-learn and Matplotlib in an isolated environment. Use an available scientific-figure skill for its own rendering and QA requirements.
+
+Copy `skills/statistical-modeling-report` into your personal skills directory without overwriting existing edits. Example: “Use $statistical-modeling-report to analyze these Excel sheets and consolidate the computed results and figures into a Markdown report.” Portable reports need their image assets as well as the Markdown file; link verification alone is not visual rendering verification.

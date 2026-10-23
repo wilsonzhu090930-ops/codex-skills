@@ -1,0 +1,2 @@
+interface:
+  short_description: "分析组间差异、独立性与客户聚类并生成图文报告"
