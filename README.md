@@ -60,3 +60,9 @@ Copy `skills/statistical-modeling-report` into your personal skills directory wi
 [English documentation](skills/himcm-latex-profile/README.md) · [中文说明](skills/himcm-latex-profile/README.zh-CN.md)
 
 Adapt English MCM/ICM LaTeX projects to HiMCM rules with solution-page checks and separate AI-report handling. Instruction-only; no third-party templates or scripts redistributed. Actual-paper compilation and visual verification remain required.
+
+## music-library-import
+
+[English documentation](skills/music-library-import/README.md) · [中文说明](skills/music-library-import/README.zh-CN.md)
+
+Acquire a requested album from a user-supplied or other authorized download source, compare actual audio properties with the user's stated quality target, verify release and track completeness, organize files in iCloud Drive, and import through Apple Music. It preserves originals when ALAC copies are needed and distinguishes local iCloud placement from cloud sync. It does not bypass access controls or rip streaming audio; private windows are limited to ordinary session/cache troubleshooting.

@@ -60,3 +60,9 @@ python skills/skill-summary-zh/scripts/localize.py restore --backup /path/to/bac
 [中文说明](skills/himcm-latex-profile/README.zh-CN.md) · [English documentation](skills/himcm-latex-profile/README.md)
 
 基于已有MCM/ICM英文项目适配HiMCM，显式检查25页解答上限和另附AI报告。仅含指令，不转载第三方模板或脚本，实际论文仍需编译和逐页检查。
+
+## music-library-import
+
+[中文说明](skills/music-library-import/README.zh-CN.md) · [English documentation](skills/music-library-import/README.md)
+
+从用户提供或其他有授权的下载来源获取专辑，对照用户声明的音质偏好核验实际音频属性，确认版本和曲目完整性，整理到 iCloud Drive 并通过 Apple Music 导入。若需 ALAC 副本则保留原文件，并区分本机 iCloud 文件与云端同步状态。不绕过访问控制或抓取流媒体；无痕窗口仅用于排查普通会话/缓存故障。
