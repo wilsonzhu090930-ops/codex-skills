@@ -66,3 +66,9 @@ Adapt English MCM/ICM LaTeX projects to HiMCM rules with solution-page checks an
 [English documentation](skills/music-library-import/README.md) · [中文说明](skills/music-library-import/README.zh-CN.md)
 
 Acquire a requested album from a user-supplied or other authorized download source, compare actual audio properties with the user's stated quality target, verify release and track completeness, organize files in iCloud Drive, and import through Apple Music. It preserves originals when ALAC copies are needed and distinguishes local iCloud placement from cloud sync. It does not bypass access controls or rip streaming audio; private windows are limited to ordinary session/cache troubleshooting.
+
+## himcm-coach
+
+[English documentation](skills/himcm-coach/README.md) · [中文说明](skills/himcm-coach/README.zh-CN.md)
+
+Coach HiMCM modeling and writing at an explainable high-school level, with evidence checks and sensitivity analysis. The source guide identifies known errors and incomplete extraction; current contest rules and original documents remain authoritative.

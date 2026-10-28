@@ -66,3 +66,9 @@ python skills/skill-summary-zh/scripts/localize.py restore --backup /path/to/bac
 [中文说明](skills/music-library-import/README.zh-CN.md) · [English documentation](skills/music-library-import/README.md)
 
 从用户提供或其他有授权的下载来源获取专辑，对照用户声明的音质偏好核验实际音频属性，确认版本和曲目完整性，整理到 iCloud Drive 并通过 Apple Music 导入。若需 ALAC 副本则保留原文件，并区分本机 iCloud 文件与云端同步状态。不绕过访问控制或抓取流媒体；无痕窗口仅用于排查普通会话/缓存故障。
+
+## himcm-coach
+
+[中文说明](skills/himcm-coach/README.zh-CN.md) · [English documentation](skills/himcm-coach/README.md)
+
+以可解释的高中数学指导 HiMCM 建模与写作，注重证据核查和敏感性分析。参考指南标注讲义中的已知错误与提取限制；使用时应核对原文和当年比赛规则。
